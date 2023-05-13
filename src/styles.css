@@ -1,0 +1,37 @@
+* {
+    margin: 1;
+}
+
+body {
+    font-family: 'Courier New', Courier, monospace;
+    padding: 10;
+    background-color: #b0fff7;
+}
+
+#inputLabel {
+    height: 25px;
+    width: 255px;
+    padding: 5px;
+    border-radius: 10px;
+    color: gray;
+}
+
+.btn {
+    height: 37px;
+    width: 75px;
+    margin-left: 10px;
+    color: white;
+    background-color: blue;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    border-radius: 10px;
+}
+
+#taskList {
+    height: 350px;
+    width: 250px;
+    background-color: #f56c42;
+    margin-top: 12px;
+    border-radius: 15px 15px 15px 15px;
+    padding: 10px;
+    padding-top: 0.5px;
+}
